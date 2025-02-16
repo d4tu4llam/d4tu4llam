@@ -1,5 +1,14 @@
-## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Hilmi Datu Allam**.<br>
+
+Saya seorang **Mahasiswa** di [Telkom University](https://telkomuniversity.ac.id/).<br>
+
+Saya juga sedang mengikuti bootcamp Dicoding powered by DBS [Dicoding DBS](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).<br>
+
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/datuallam/) ku ya.
 <!--
 **d4tu4llam/d4tu4llam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
