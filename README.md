@@ -1,25 +1,19 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Hilmi Datu Allam**.<br>
+# Hi! :smirk_cat: I'm Hilmi
 
 Saya seorang **Mahasiswa** di [Telkom University](https://telkomuniversity.ac.id/).<br>
 
-Saya juga sedang mengikuti bootcamp Dicoding powered by DBS [Dicoding DBS](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).<br>
+Saya sedang mengikuti bootcamp Dicoding powered by DBS [Dicoding DBS](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).<br>
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/datuallam/) ku ya.
-<!--
-**d4tu4llam/d4tu4llam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me on
+- <a href="https://www.linkedin.com/in/datuallam/">LinkedIn</a>
+- hilmi.allam@gmail.com
