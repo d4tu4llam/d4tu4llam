@@ -4,8 +4,6 @@ Saya seorang **Mahasiswa** di [Telkom University](https://telkomuniversity.ac.id
 
 Saya sedang mengikuti bootcamp Dicoding powered by DBS [Dicoding DBS](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
