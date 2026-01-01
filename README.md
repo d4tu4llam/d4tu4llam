@@ -2,8 +2,6 @@
 
 Saya seorang **Mahasiswa** di [Telkom University](https://telkomuniversity.ac.id/).<br>
 
-Saya sedang mengikuti bootcamp Dicoding powered by DBS [Dicoding DBS](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).<br>
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/d4tu4llam">
